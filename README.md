@@ -6,5 +6,5 @@ Bitte verwendet, wenn möglich, die verfügbaren Templates für neue [Issues](ht
 
 ----
 
-[PietSmiet.de](https://pietsmiet.de)
+[PietSmiet.de](https://pietsmiet.de)    
 [@PietSmietDE auf Twitter](https://twitter.com/pietsmietde)
