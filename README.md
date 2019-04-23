@@ -1,13 +1,26 @@
-# PietSmiet.de Bugtracker
+<p align="center"><img src="https://www.pietsmiet.de/storage/images/static/icons/default-64.png"></p>
 
-In diesem Repository können Fehler zur [PietSmiet.de](https://www.pietsmiet.de) Website eingesendet werden.
+<p align="center">
+<a href="https://github.com/pietsmietde/Bugs/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues-raw/pietsmietde/Bugs.svg?label=Offen" alt="Offene Issues"></a>
+<a href="https://github.com/pietsmietde/Bugs/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/pietsmietde/Bugs.svg?label=Geschlossen" alt="Geschlossene Issues"></a>
+<a href="https://www.pietsmiet.de"><img src="https://img.shields.io/website/https/www.pietsmiet.de.svg?down_message=offline&label=Website&up_message=online" alt="Website Status"></a>
+<a href="https://twitter.com/PietSmietde"><img src="https://img.shields.io/twitter/follow/PietSmietde.svg?label=PietSmietde&style=social" alt="Twitter"></a>
+</p>
 
-## Fehlermeldungen einsenden
+---
 
-1. Es wird ein GitHub Account benötigt. [Hier registrieren](https://github.com/join)
-2. Eröffne einen [neuen Issue](https://github.com/pietsmietde/Bugs/issues/new/choose) über den "Issues" Tab.
+# PietSmiet.de Tracker
+
+Hier können **Fehlermeldungen** und **Featurevorschläge** zur [PietSmiet.de](https://www.pietsmiet.de) Website eingesendet werden.
+
+## Meldung einsenden
+
+1. Erstelle einen [neuen GitHub Account](https://github.com/join) oder [logge dich ein](https://github.com/login?return_to=%2Fpietsmietde%2FBugs).
+2. Eröffne einen [neuen Issue](https://github.com/pietsmietde/Bugs/issues/new/choose) über den "Issues" Tab. ("Issue" = Meldung)
 3. Wähle dort zwischen den verfügbaren Vorlagen
-4. Fülle alle Felder aus, die in dem Kontext Sinn machen
+4. Lege einen passenden Titel fest
+5. Fülle alle Felder aus
+6. Prüfe über den "Preview"-Tab oberhalb des Eingabefensters, ob die Meldung korrekt formatiert ist
 
 ## Sicherheit
 
