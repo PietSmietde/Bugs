@@ -16,15 +16,15 @@ Hier können **Fehlermeldungen** und **Featurevorschläge** zur [PietSmiet.de](h
 ## Meldung einsenden
 
 1. Erstelle einen [neuen GitHub Account](https://github.com/join) oder [logge dich ein](https://github.com/login?return_to=%2Fpietsmietde%2FBugs).
-2. Eröffne einen [neuen Issue](https://github.com/pietsmietde/Bugs/issues/new/choose) über den "Issues" Tab. ("Issue" = Meldung)
-3. Wähle dort zwischen den verfügbaren Vorlagen
-4. Lege einen passenden Titel fest
+2. Eröffne ein [neues Issue](https://github.com/pietsmietde/Bugs/issues/new/choose) über den "Issues" Tab. ("Issue" = Meldung)
+3. Wähle aus den verfügbaren Vorlagen die passendste aus.
+4. Gib einen passenden Titel an
 5. Fülle alle Felder aus
 6. Prüfe über den "Preview"-Tab oberhalb des Eingabefensters, ob die Meldung korrekt formatiert ist
 
 ## Sicherheit
 
-Solltest du sicherheitsrelevante Meldungen haben, sende eine E-Mail an [business@pietsmiet.de](business@pietsmiet.de) anstatt den Issue Tracker zu nutzen.
+Solltest du sicherheitsrelevante Meldungen haben, sende eine E-Mail an [business@pietsmiet.de](business@pietsmiet.de), statt den Issue Tracker zu nutzen.
 
 ----
 
