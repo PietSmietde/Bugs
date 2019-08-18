@@ -20,6 +20,7 @@ Eine Beschreibung des zu erwartenden Verhaltens / Ergebnisses.
 
 **Screenshots**
 Wenn nötig, Screenshot anfügen, welche das Problem veranschaulichen.
+(*Screenshots per Drag&Drop hier einfügen*)
 
 **Desktop (bitte die Informationen vervollständigen):**
  - Betriebssystem: [z.B. Windows]
