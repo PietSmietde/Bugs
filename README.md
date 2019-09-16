@@ -24,7 +24,7 @@ Hier können **Fehlermeldungen** und **Featurevorschläge** zur [PietSmiet.de](h
 
 ## Sicherheit
 
-Solltest du sicherheitsrelevante Meldungen haben, sende eine E-Mail an [support@pietsmiet.de](support@pietsmiet.de) anstatt den Issue Tracker zu nutzen.
+Solltest du sicherheitsrelevante Meldungen haben, sende eine E-Mail an [support@pietsmiet.de](mailto:support@pietsmiet.de) anstatt den Issue Tracker zu nutzen.
 
 ----
 
