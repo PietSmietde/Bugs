@@ -1,7 +1,7 @@
 ---
 name: Fehlermeldung
 about: Erstelle eine Meldung zu einem Fehler
-title: 'Bug: '
+title: ''
 labels: bug
 assignees: ''
 

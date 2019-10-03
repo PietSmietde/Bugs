@@ -1,7 +1,7 @@
 ---
 name: Feature Vorschlag
 about: Teile uns deine Ideen für ein neues Feature mit
-title: 'Feature: '
+title: ''
 labels: enhancement
 assignees: ''
 
