@@ -13,6 +13,10 @@
 
 Hier können **Fehlermeldungen** und **Featurevorschläge** zur [PietSmiet.de](https://www.pietsmiet.de) Website eingesendet werden.
 
+## Probleme mit Abonnement, Login etc.
+
+Bitte sende bei Fragen & Problemen zum Abonnement, Login, 2-Faktor und allen weiteren Accountspezifischen Themen eine E-Mail an [support@pietsmiet.de](mailto:support@pietsmiet.de). **Dafür nicht den Bugtracker verwenden**!
+
 ## Meldung einsenden
 
 1. Erstelle einen [neuen GitHub Account](https://github.com/join) oder [logge dich ein](https://github.com/login?return_to=%2Fpietsmietde%2FBugs).
