@@ -26,6 +26,11 @@ Eine Beschreibung des zu erwartenden Verhaltens / Ergebnisses.
 Wenn nötig, Screenshot anfügen, welche das Problem veranschaulichen.
 (*Screenshots per Drag & Drop hier einfügen*)
 
+### Unter welcher Version tritt der Fehler auf?
+
+[Die Version kann man unteren Ende der Seite gefunden werden]
+PietSmiet Portal [*****] by PietSmiet
+
 ### Desktop (bitte die Informationen vervollständigen)
 
  - Betriebssystem: [z.B. Windows]
