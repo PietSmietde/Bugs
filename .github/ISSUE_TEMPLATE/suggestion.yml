@@ -1,0 +1,52 @@
+name: Feature Vorschlag
+description: Teile uns deine Ideen für ein neues Feature mit
+labels: [enhancement]
+assignees:
+  - romanzipp
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Art des Vorschlags
+      options:
+        - Komplett neues Feature
+        - Verbesserung einer bestehenden Funktion
+        - Visuelle Verbesserung
+        - anderes
+    validations:
+      required: true
+
+  - type: textarea
+    id: info
+    attributes:
+      label: Beschreibe das Feature
+      description: Eine klare Beschreibung des Features.
+      placeholder: Damit ... hätte ich gerne ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Gibt es Alternativen?
+      description: Beschreibe, ob es alternative Lösungen für das Feature geben kann.
+      placeholder: Mit dem bestehenden ... ist es möglich, dass ...
+    validations:
+      required: false
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Geht der Vorschlag aus einem bestehenden Problem hervor?
+      description: Bitte beschreibe das Problem, welches mit dem Vorschlag behoben werden soll, wenn vorhanden.
+      placeholder: Ohne ... gibt es keine Möglichkeit, ...
+    validations:
+      required: false
+
+  - type: textarea
+    id: more
+    attributes:
+      label: Weitere Informationen / Screenshots
+      description: Weitere Informationen über das Problem, wenn vorhanden.
+    validations:
+      required: false

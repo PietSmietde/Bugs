@@ -1,0 +1,126 @@
+name: Fehlermeldung
+description: Erstelle eine Meldung zu einem Fehler
+labels: [bug]
+assignees:
+  - romanzipp
+body:
+  - type: textarea
+    id: info
+    attributes:
+      label: Fehlerbeschreibung
+      description: Eine klare und knappe Beschreibung, um welchen Fehler es sich handelt.
+      placeholder: Sobald ich ... wird mir ein Fehler '...' angezeigt...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduktion
+      description: Schritte um den Fehler zu reproduzieren.
+      placeholder: |
+        1. Navigiere zu '...'
+        2. Klicke auf '....'
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Erwartetes Verhalten
+      description: Eine Beschreibung des zu erwartenden Verhaltens / Ergebnisses.
+      placeholder: Wenn ich ... sollte...
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Website Version
+      description: Die Version kann am unteren Ende der Seite gefunden werden.
+      placeholder: z.B. PietSmiet Portal 2.1.3 by PietSmiet
+    validations:
+      required: true
+
+  - type: dropdown
+    id: device
+    attributes:
+      label: Gerät
+      description: Auf welchem Gerät hast du den Fehler bemerkt?
+      multiple: true
+      options:
+        - Desktop
+        - Laptop
+        - Smartphone
+        - Tablet
+        - Smart TV
+        - Chromecast
+        - Apple TV
+        - Fire TV
+        - "* nicht angegeben"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Betriebssytem
+      description: Welches Betriebssystem verwendest du?
+      multiple: true
+      options:
+        - Windows 10
+        - Windows 11 Beta
+        - Windows (anderes)
+        - macOS 11
+        - macOS 12 Beta
+        - macOS (anderes)
+        - Android
+        - iOS / iPadOS
+        - "* nicht angegeben"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      description: Welchen Browser verwendest du?
+      multiple: true
+      options:
+        - Google Chrome
+        - Firefox
+        - Safari
+        - Opera
+        - Vivaldi
+        - Microsoft Edge (neu, Chromium)
+        - Microsoft Edge (alt)
+        - Internet Explorer
+        - "* nicht angegeben"
+    validations:
+      required: true
+
+  - type: input
+    id: browser_version
+    attributes:
+      label: Browserversion
+      description: Die aktuell verwendete Browserversion.
+      placeholder: z.B. 56.1324
+    validations:
+      required: false
+
+  - type: input
+    id: browser_extensions
+    attributes:
+      label: Extensions & Add-Ons
+      description: Hast du Extensions oder Add-Ons installiert?
+      placeholder: z.B. AdBlock Plus, Lastpass, ...
+    validations:
+      required: false
+
+  - type: textarea
+    id: more
+    attributes:
+      label: Weitere Informationen / Screenshots
+      description: Weitere Informationen über das Problem, wenn vorhanden.
+    validations:
+      required: false
