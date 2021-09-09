@@ -13,9 +13,9 @@
 
 Hier können **Fehlermeldungen** und **Featurevorschläge** zur [PietSmiet.de](https://www.pietsmiet.de) Website eingesendet werden.
 
-## ⚠️ Probleme mit Abonnement, Login etc. ⚠️
+### Status Page
 
-Bitte sende bei Fragen & Problemen zum Abonnement, Login, 2-Faktor und allen weiteren Accountspezifischen Themen eine E-Mail an [support@pietsmiet.de](mailto:support@pietsmiet.de). **Dafür nicht den Bugtracker verwenden**!
+Mehr Informationen zu aktuellen Ereignissen sind auf unserer **Statusseite [status.pietsmiet.de](https://status.pietsmiet.de)** verfügbar.
 
 ##  Meldung einsenden
 
@@ -25,6 +25,10 @@ Bitte sende bei Fragen & Problemen zum Abonnement, Login, 2-Faktor und allen wei
 4. Lege einen passenden Titel fest
 5. Fülle alle Felder aus
 6. Prüfe über den "Preview"-Tab oberhalb des Eingabefensters, ob die Meldung korrekt formatiert ist
+
+## ⚠️ Probleme mit Abonnement, Login etc. ⚠️
+
+Bitte sende bei Fragen & Problemen zum Abonnement, Login, 2-Faktor und allen weiteren Accountspezifischen Themen eine E-Mail an [support@pietsmiet.de](mailto:support@pietsmiet.de). **Dafür nicht den Bugtracker verwenden**!
 
 ## Sicherheit
 
