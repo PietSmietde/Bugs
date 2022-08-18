@@ -69,10 +69,11 @@ body:
       multiple: true
       options:
         - Windows 10
-        - Windows 11 Beta
+        - Windows 11
         - Windows (anderes)
-        - macOS 11
-        - macOS 12 Beta
+        - macOS 11 Big Sur
+        - macOS 12 Monterey
+        - macOS 13 Ventura
         - macOS (anderes)
         - Android
         - iOS / iPadOS
